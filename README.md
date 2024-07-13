@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Imagenes/127.0.0.1.jpg" alt="Banner" width="100%">
+<!--<img src="Imagenes/127.0.0.1.jpg" alt="Banner" width="100%">-->
 
 <h1 align="center">Hola 👋, soy Majo Santana  ✨</h1>
 
@@ -13,7 +13,8 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">"¡Los datos nunca duermen, y yo tampoco cuando hay un bug! 🐛."
+"Mi código nunca tiene errores, solo características inesperadas 🧑‍💻."</h2></summary>
   </ul>
 </div>
 
