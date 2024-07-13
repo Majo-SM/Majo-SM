@@ -63,68 +63,6 @@
 
 <br>
 
-<h2 align="left">Tutoriales👨🏻‍💻</h2>
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/Busqueda Binaria ED.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Estructura de Datos</h3>
-        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/Notion Miniatura.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Organiza tu Tiempo con Notion</h3>
-        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/PHP LOGIN P1.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">        
-        <h3 align="left">=>Login con PHP</h3>
-        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/JAVA 0 INTRO 1.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Curso de JAVA Gratuito</h3>
-        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Curso-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="left">Recursos y Libros 📚</h2>
 <div align="center">
   <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
