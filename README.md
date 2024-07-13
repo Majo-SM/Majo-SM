@@ -25,7 +25,7 @@
   <a href="mailto:minayamajo@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-4CAF50?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
   </a>
-  <a href="www.linkedin.com/in/maría-santana-8649b1244" target="blank">
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-santana-8649b1244/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Linkedin-007BFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="@unsimpledev" />
   </a>
 </p>
