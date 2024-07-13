@@ -45,7 +45,7 @@
 <h2 align="left">Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,flutter,docker,css,azure,aws,atom,arduino,angular,anaconda,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,atom,arduino,angular,anaconda,androidstudio,cs,css,cpp,docker,firebase,flutter,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,ts,py,postgres,php,tensorflow,vscode,vue,visualstudio,wordpress,ps&perline=12" />
   </a>
 </p>
 
