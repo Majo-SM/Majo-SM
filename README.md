@@ -1,7 +1,22 @@
 <!-- Banner -->
 <img src="Imagenes/127.0.0.1.jpg" alt="Banner" width="100%">
 
-<h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
+<h1 align="center">Hola 👋, soy Majo Santana  ✨</h1>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
 
 <p align="center">
   <a href="https://www.youtube.com/@ProgramacionCMV-sb3zx/featured" target="blank">
