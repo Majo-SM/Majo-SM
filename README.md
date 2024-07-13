@@ -46,18 +46,18 @@
 
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
-  🎓 INGENIERO EN SISTEMAS<br>
-  🎥 CREADOR DE CONTENIDO que enseña sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia!<br>
-  📝 Roles en el ámbito: desarrollador, emprendedor, programador freelance, y en un futuro quién sabe ☺️<br>
-  📫 Contacto: **marrugovargascarlos@gmail.com**
+  🎓 INGENIERA EN TECNOLOGIA DE LA INFORMACION<br>
+  👩‍💻 MAGISTER EN CIENCIA DE DATOS -- EN PROCESO<br>
+  📝 Roles en el ámbito: cientifica de datos, desarrolladora, programador freelance, y en un futuro quién sabe ☺️<br>
+  📫 Contacto: **minayamajo@gmail.com**
 </p>
-
+ 
 <br>
 
 <h2 align="left">Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,vscode,ps&perline=12" />
   </a>
 </p>
 
