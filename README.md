@@ -14,6 +14,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">"¡Los datos nunca duermen, y yo tampoco cuando hay un bug! 🐛."
+</h2></summary>
+        <summary><h2 style="display: inline-block">
 "Mi código nunca tiene errores, solo características inesperadas 🧑‍💻."</h2></summary>
   </ul>
 </div>
