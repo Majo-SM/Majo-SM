@@ -78,9 +78,9 @@
 <!-- Puedes agregar más secciones según sea necesario -->
 <!-- Por ejemplo, si deseas incluir estadísticas de GitHub -->
 <h2 align="left">Estadísticas</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=dark" alt="Carlos Marrugo's GitHub stats" />
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=dark" alt="Majo GitHub stats" />
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+</p> --!>
 
